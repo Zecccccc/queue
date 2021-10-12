@@ -1,0 +1,40 @@
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CashierWindowQueueForm.resources
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Form1.resources
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Properties.Resources.resources
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.GenerateResource.Cache
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.exe
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.pdb
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.exe
+c:\users\brent\documents\visual studio 2010\Projects\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.pdb
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.exe
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.pdb
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csprojAssemblyReference.cache
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CashierWindowQueueForm.resources
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Form1.resources
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Properties.Resources.resources
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.GenerateResource.cache
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.CoreCompileInputs.cache
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.exe
+C:\Users\smeng\source\repos\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.pdb
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.exe
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.pdb
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csprojAssemblyReference.cache
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CashierWindowQueueForm.resources
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.QueuingForm.resources
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Properties.Resources.resources
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.GenerateResource.cache
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.CoreCompileInputs.cache
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.exe
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.pdb
+C:\Users\Galanto\Desktop\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CustomerView.resources
+E:\SAUCE\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.exe
+E:\SAUCE\QueuingCashier\QueuingCashier\bin\Debug\QueuingCashier.pdb
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.AssemblyReference.cache
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CashierWindowQueueForm.resources
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.CustomerView.resources
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.QueuingForm.resources
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.Properties.Resources.resources
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.GenerateResource.cache
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.csproj.CoreCompileInputs.cache
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.exe
+E:\SAUCE\QueuingCashier\QueuingCashier\obj\x86\Debug\QueuingCashier.pdb
